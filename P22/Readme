@@ -5,3 +5,7 @@ v1={0.165055258473304 + 0.08905206510338072 I, 0.5202649514045381 + 0.1725125772
 v2={0.7376703951717593 - 0.13237028092446343 I, -0.3008785617476989 + 0.4791158990899972 I, 0.016976007147998448 - 0.042691072120007445 I, 0.18244978782278792 - 0.2878226982031024 I}
 
 Ambos están almacenados en el archivo P22.mx el cual contiene una lista con dos sublistas, de forma que v1=P22[[1]] y v2=P22[[2]].
+
+* Las gráficas de pureza en la superficie esférica se encuentra en P22v1.pdf y P22v2.pdf
+
+* El mapa de contorno con los puntos máximos se encuentra en P22C.pdf
