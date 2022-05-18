@@ -1,0 +1,7 @@
+La base utilizada es:
+
+v1={1/√2, 0, 0, 1/√2}
+
+v2={1/√2, 0, 0, -1/√2}
+
+Ambos están almacenados en el archivo Pb1.mx el cual contiene una lista con dos sublistas, de forma que v1=Pb1[[1]] y v2=Pb1[[2]].
