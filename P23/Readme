@@ -5,3 +5,7 @@ v1={0.5071221614922568 + 0.4780075863476293 I, 0.12252229536507421 + 0.000056079
 v2={0.32297804897045285 - 0.26699339211042483 I, 0.5331477696451996 + 0.10743183284661406 I, -0.5300564399093011 - 0.08589271249508466 I, -0.11819418672380316 + 0.47571452799109265 I}
 
 Ambos están almacenados en el archivo P23.mx el cual contiene una lista con dos sublistas, de forma que v1=P23[[1]] y v2=P23[[2]].
+
+* Las gráficas de pureza en la superficie esférica se encuentra en P23v1.pdf y P23v2.pdf
+
+* El mapa de contorno con los puntos máximos se encuentra en P23C.pdf
