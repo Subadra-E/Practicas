@@ -5,3 +5,7 @@ v1={1/√2, 0, 0, 1/√2}
 v2={0, 1/√2, -1/√2, 0}
 
 Ambos están almacenados en el archivo Pb2.mx el cual contiene una lista con dos sublistas, de forma que v1=Pb2[[1]] y v2=Pb2[[2]].
+
+* Las gráficas de pureza en la superficie esférica se encuentra en Pb2v1.pdf y Pb2v2.pdf
+
+* El mapa de contorno con los puntos máximos se encuentra en Pb2C.pdf
