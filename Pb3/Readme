@@ -4,8 +4,9 @@ v1={0, 1/√2, 1/√2, 0}
 
 v2={0, 1/√2, -1/√2, 0}
 
-Ambos están almacenados en el archivo Pb3.mx el cual contiene una lista con dos sublistas, de forma que v1=Pb3[[1]] y v2=Pb3[[2]].
 
 * Las gráficas de pureza en la superficie esférica se encuentra en Pb3v1.pdf y Pb3v2.pdf
 
 * El mapa de contorno con los puntos máximos se encuentra en Pb3C.pdf
+
+* Los pares de valores {theta, phi} en donda la pureza es máxima, se encuentra en mb3.mx
