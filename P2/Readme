@@ -1,0 +1,14 @@
+La base utilizada es:
+
+v1={0.165055258473304 + 0.08905206510338072 I, 0.5202649514045381 + 0.17251257721764846 I, 0.4474433212842326 + 0.39244875650437305 I, 0.4233201806430544 + 0.3618960552555541 I}
+
+v2={0.7376703951717593 - 0.13237028092446343 I, -0.3008785617476989 + 0.4791158990899972 I, 0.016976007147998448 - 0.042691072120007445 I, 0.18244978782278792 - 0.2878226982031024 I}
+
+Ambos están almacenados en el archivo P2.mx el cual contiene una lista con dos sublistas, de forma que v1=P2[[1]] y v2=P2[[2]].
+
+* Las gráficas de pureza en la superficie esférica se encuentra en P2v1.pdf y P2v2.pdf
+
+* El mapa de contorno con los puntos máximos se encuentra en P2C.pdf
+
+* Los pares de valores {theta, phi} en donda la pureza es máxima, se encuentra en m2.mx
+
