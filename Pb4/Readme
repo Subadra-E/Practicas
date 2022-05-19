@@ -4,8 +4,9 @@ v1={1/√2, 0, 0, -1/√2}
 
 v2={0, 1/√2, 1/√2, 0}
 
-Ambos están almacenados en el archivo Pb4.mx el cual contiene una lista con dos sublistas, de forma que v1=Pb4[[1]] y v2=Pb4[[2]].
 
 * Las gráficas de pureza en la superficie esférica se encuentra en Pb4v1.pdf y Pb4v2.pdf
 
 * El mapa de contorno con los puntos máximos se encuentra en Pb4C.pdf
+
+* Los pares de valores {theta, phi} en donda la pureza es máxima, se encuentra en mb4.mx
