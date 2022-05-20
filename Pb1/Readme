@@ -8,4 +8,4 @@ v2={1/√2, 0, 0, -1/√2}
 
 * El mapa de contorno con los puntos máximos se encuentra en Pb1C.pdf
 
-* Los pares de valores {theta, phi} en donda la pureza es máxima, se encuentra en mb1.mx, en este caso uno de los máximos se encuentra entre las fronteras y debido a la condición que se colocó en la selección de pares de ángulos, solo se encuentra uno de los pares en el archivo .mx
+* Los pares de valores {theta, phi} en donda la pureza es máxima, se encuentra en mb1.mx. En este caso uno de los máximos se encuentra entre las fronteras de la gráfica 2D y debido a la condición que se colocó en la selección de pares de {theta, phi}, solo se encuentra uno de los pares en el archivo .mx
